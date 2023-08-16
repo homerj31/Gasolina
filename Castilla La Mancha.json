@@ -1,0 +1,698 @@
+[
+  {
+    "IDMunicipio": "52",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Abengibre",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "53",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Alatoz",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "54",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Albacete",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "55",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Albatana",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "56",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Alborea",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "57",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Alcadozo",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "58",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Alcalá del Júcar",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "59",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Alcaraz",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "60",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Almansa",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "61",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Alpera",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "62",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Ayna",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "63",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Balazote",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "64",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Ballestero (El)",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "65",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Balsa de Ves",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "66",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Barrax",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "67",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Bienservida",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "68",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Bogarra",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "69",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Bonete",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "70",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Bonillo (El)",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "71",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Carcelén",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "72",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Casas de Juan Núñez",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "73",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Casas de Lázaro",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "74",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Casas de Ves",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "75",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Casas-Ibáñez",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "76",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Caudete",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "77",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Cenizate",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "78",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Chinchilla de Monte-Aragón",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "79",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Corral-Rubio",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "80",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Cotillas",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "81",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Elche de la Sierra",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "82",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Férez",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "83",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Fuensanta",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "84",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Fuente-Álamo",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "85",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Fuentealbilla",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "86",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Gineta (La)",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "87",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Golosalvo",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "88",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Hellín",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "89",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Herrera (La)",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "90",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Higueruela",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "91",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Hoya-Gonzalo",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "92",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Jorquera",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "93",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Letur",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "94",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Lezuza",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "95",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Liétor",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "96",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Madrigueras",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "97",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Mahora",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "98",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Masegoso",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "99",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Minaya",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "100",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Molinicos",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "101",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Montalvos",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "102",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Montealegre del Castillo",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "103",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Motilleja",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "104",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Munera",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "105",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Navas de Jorquera",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "106",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Nerpio",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "107",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Ontur",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "108",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Ossa de Montiel",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "109",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Paterna del Madera",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "110",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Peñas de San Pedro",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "111",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Peñascosa",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "112",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Pétrola",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "113",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Povedilla",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "114",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Pozo Cañada",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "115",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Pozohondo",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "116",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Pozo-Lorente",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "117",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Pozuelo",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "118",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Recueja (La)",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "119",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Riópar",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "120",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Robledo",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "121",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Roda (La)",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "122",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Salobre",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "123",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "San Pedro",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "124",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Socovos",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "125",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Tarazona de la Mancha",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "126",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Tobarra",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "127",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Valdeganga",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "128",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Vianos",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "129",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Villa de Ves",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "130",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Villalgordo del Júcar",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "131",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Villamalea",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "132",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Villapalacios",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "133",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Villarrobledo",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "134",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Villatoya",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "135",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Villavaliente",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "136",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Villaverde de Guadalimar",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "137",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Viveros",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "138",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Yeste",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  }
+]

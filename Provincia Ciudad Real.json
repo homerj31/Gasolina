@@ -1,0 +1,818 @@
+[
+  {
+    "IDMunicipio": "1941",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Abenójar",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1942",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Agudo",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1943",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Alamillo",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1944",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Albaladejo",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1945",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Alcázar de San Juan",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1946",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Alcoba",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1947",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Alcolea de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1948",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Alcubillas",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1949",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Aldea del Rey",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1950",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Alhambra",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1951",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Almadén",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1952",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Almadenejos",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1953",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Almagro",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1954",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Almedina",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1955",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Almodóvar del Campo",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1956",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Almuradiel",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1957",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Anchuras",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1958",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Arenales de San Gregorio",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1959",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Arenas de San Juan",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1960",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Argamasilla de Alba",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1961",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Argamasilla de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1962",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Arroba de los Montes",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1963",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Ballesteros de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1964",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Bolaños de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1965",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Brazatortas",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1966",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Cabezarados",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1967",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Cabezarrubias del Puerto",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1968",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Calzada de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1969",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Campo de Criptana",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1970",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Cañada de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1971",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Caracuel de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1972",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Carrión de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1973",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Carrizosa",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1974",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Castellar de Santiago",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1975",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Chillón",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1976",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Ciudad Real",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1977",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Corral de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1978",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Cortijos (Los)",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1979",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Cózar",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1980",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Daimiel",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1981",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Fernán Caballero",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1982",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Fontanarejo",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1983",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Fuencaliente",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1984",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Fuenllana",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1985",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Fuente el Fresno",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1986",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Granátula de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1987",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Guadalmez",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1988",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Herencia",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1989",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Hinojosas de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1990",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Horcajo de los Montes",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1991",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Labores (Las)",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1992",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Llanos del Caudillo",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1993",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Luciana",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1994",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Malagón",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1995",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Manzanares",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1996",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Membrilla",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1997",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Mestanza",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1998",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Miguelturra",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "1999",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Montiel",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2000",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Moral de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2001",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Navalpino",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2002",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Navas de Estena",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2003",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Pedro Muñoz",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2004",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Picón",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2005",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Piedrabuena",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2006",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Poblete",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2007",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Porzuna",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2008",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Pozuelo de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2009",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Pozuelos de Calatrava (Los)",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2010",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Puebla de Don Rodrigo",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2011",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Puebla del Príncipe",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2012",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Puerto Lápice",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2013",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Puertollano",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2014",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Retuerta del Bullaque",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2015",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Robledo (El)",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2016",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Ruidera",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2017",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Saceruela",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2018",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "San Carlos del Valle",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2019",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "San Lorenzo de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2020",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Santa Cruz de los Cáñamos",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2021",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Santa Cruz de Mudela",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2022",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Socuéllamos",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2023",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Solana (La)",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2024",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Solana del Pino",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2025",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Terrinches",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2026",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Tomelloso",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2027",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Torralba de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2028",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Torre de Juan Abad",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2029",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Torrenueva",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2030",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Valdemanco del Esteras",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2031",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Valdepeñas",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2032",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Valenzuela de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2033",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Villahermosa",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2034",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Villamanrique",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2035",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Villamayor de Calatrava",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2036",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Villanueva de la Fuente",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2037",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Villanueva de los Infantes",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2038",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Villanueva de San Carlos",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2039",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Villar del Pozo",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2040",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Villarrubia de los Ojos",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2041",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Villarta de San Juan",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "2042",
+    "IDProvincia": "13",
+    "IDCCAA": "07",
+    "Municipio": "Viso del Marqués",
+    "Provincia": "CIUDAD REAL",
+    "CCAA": "Castilla la Mancha"
+  }
+]
